@@ -1,8 +1,6 @@
 # Hi, I'm Thomas! 👋
 
-I am a **Junior Software Developer** from **Augsburg, Germany**, focusing on the Microsoft ecosystem.
-
-Currently, I am diving deep into **C#** and **.NET**, building my first larger projects to understand Clean Architecture and Backend logic.
+Software Developer from Augsburg, Germany (relocating to SE), specializing in the Microsoft ecosystem. I build applications with C# and .NET, applying Clean Architecture and backend logic while focusing on infrastructure and secure deployment environments.
 
 ---
 
