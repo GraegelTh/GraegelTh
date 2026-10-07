@@ -1,6 +1,6 @@
 # Hi, I'm Thomas! 👋
 
-Software Developer from Augsburg, Germany (relocating to SE), specializing in the Microsoft ecosystem. I build applications with C# and .NET, applying Clean Architecture and backend logic while focusing on infrastructure and secure deployment environments.
+Software Developer in Stockholm, specializing in the Microsoft ecosystem. I build applications with C# and .NET, applying Clean Architecture and backend logic while focusing on infrastructure and secure deployment environments.
 
 ---
 
